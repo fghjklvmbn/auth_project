@@ -1,7 +1,7 @@
 자료조사(범위정하기)
 
  - IP 방어체계 관련
-모니터링 도구 : SpiderFoot 
+모니터링 도구 : SpiderFoot
 SpiderFoot : 오픈소스 ip 추적 대시보드
 SpiderFoot -> SIEM 연계 사용
 
